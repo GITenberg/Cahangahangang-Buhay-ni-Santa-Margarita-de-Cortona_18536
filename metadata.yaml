@@ -1,0 +1,25 @@
+_repo: Cahangahangang-Buhay-ni-Santa-Margarita-de-Cortona_18536
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18536-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Ignacio, Cleto R.
+    gutenberg_agent_id: '5442'
+    url: http://www.gutenberg.org/2009/agents/5442
+description: ''
+gutenberg_issued: '2006-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18536'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Saints -- Philippines'
+- !lcsh 'Tagalog language -- Texts'
+title: Cahangahangang Buhay ni Santa Margarita de Cortona
+url: http://www.gutenberg.org/ebooks/18536
